@@ -1,4 +1,4 @@
-# Book Library - Ashleigh Johnson
+Informational Site (Project 4 and Portfolio Item) - Ashleigh Johnson
 ## *Project Description*
 - Sets up a Node.js server to serve HTML files based on the URL, including a custom 404 page for undefined routes.
 ## *Photos*
